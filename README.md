@@ -40,9 +40,8 @@ The analysis follows a structured data science pipeline:
 <img width="910" height="519" alt="Screenshot 2026-02-19 183516" src="https://github.com/user-attachments/assets/4869c807-e8f6-4cc9-9fc1-85b352322cd9" />
 <img width="863" height="566" alt="Screenshot 2026-02-19 183525" src="https://github.com/user-attachments/assets/fca38e63-0eba-400a-96b2-e090f06dcea9" />
 <img width="862" height="585" alt="Screenshot 2026-02-19 183535" src="https://github.com/user-attachments/assets/d51ab87d-d254-49f7-b8e4-a4cf6a591b41" />
-<img width="814" height="488" alt="Screenshot 2026-02-19 183548" src="https://github.com/user-attachments/assets/25dc5a9b-9c7b-474c-9a2c-7f7781749d5d" />
 <img width="885" height="615" alt="Screenshot 2026-02-19 183542" src="https://github.com/user-attachments/assets/61d8e308-b801-42eb-b834-1c4c49a4541d" />
-
+<img width="814" height="488" alt="Screenshot 2026-02-19 183548" src="https://github.com/user-attachments/assets/25dc5a9b-9c7b-474c-9a2c-7f7781749d5d" />
 
 ## 👤 Author
 **Michael Bernasconi**
