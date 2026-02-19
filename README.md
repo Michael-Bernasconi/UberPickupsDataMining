@@ -1,5 +1,3 @@
-<img width="795" height="667" alt="Screenshot 2026-02-19 183456" src="https://github.com/user-attachments/assets/dbad737e-071b-4474-a5c9-c1882829b0fe" /># Uber NYC Pickup Analysis: Spatial Patterns & Predictive Insights
-
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![Data Mining](https://img.shields.io/badge/Field-Data%20Mining-orange)](https://github.com/topics/data-mining)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
